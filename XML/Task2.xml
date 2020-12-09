@@ -1,0 +1,33 @@
+<? xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+	<Name>Karthik</Name>
+	<Age>19</Age>
+	<Major>Chemistry</Major>
+	<GPA>8.8</GPA>
+</record>
+<record>
+	<Name>Rajesh</Name>
+	<Age>23</Age>
+	<Major>Maths</Major>
+	<GPA>5.5</GPA>
+</record>
+<record>
+	<Name>Aslam</Name>
+	<Age>23</Age>
+	<Major>Chemistry</Major>
+	<GPA>9.5</GPA>
+</record>
+<record>
+	<Name>Krishna</Name>
+	<Age>29</Age>
+	<Major>Maths</Major>
+	<GPA>8.5</GPA>
+</record>
+<record>
+	<Name>Chaithu</Name>
+	<Age>33</Age>
+	<Major>Maths</Major>
+	<GPA>7.5</GPA>
+</record>
+</student-data>

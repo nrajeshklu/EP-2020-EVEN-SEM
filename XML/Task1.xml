@@ -1,0 +1,53 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+<addressbook>
+	<emp1>
+		<name>Rajesh</name>
+		<doorno>5/4</doorno>
+		<street>Main Road</street>
+		<area>Chuttugunta</area>
+		<city>Guntur-522007</city>
+		<state>Andhars Pradesh</state>
+		<country>India</country>
+		<phoneno>9988899948</phoneno>
+	</emp1>
+	<emp2>
+		<name>Rajesh</name>
+		<doorno>209</doorno>
+		<street>Hanuman</street>
+		<area>nagaram palem</area>
+		<city>Gunture</city>
+		<state>Andhra Pradesh</state>
+		<country>India</country>
+		<phoneno>9201200009</phoneno>
+	</emp2>
+	<emp3>
+		<name>Raghuram</name>
+		<doorno>309</doorno>
+		<street>Rangarajan street</street>
+		<area>Templearea</area>
+		<city>tirupathi-500020</city>
+		<state>Andhra Pradesh</state>
+		<country>India</country>
+		<phone>9456712354</phoneno>
+	</emp3>
+	<emp4>
+		<name>Subbarao</name>
+		<doorno>4987/98</doorno>
+		<street>Vinayak Nagar</street>
+		<area>Busy Street</area>
+		<city>Chennupati-500020</city>
+		<state>Andhra Pradesh</state>
+		<country>India</country>
+		<phoneno>6570923567</phoneno>
+	</emp4>
+	<emp5>
+		<name>Venki</name>
+		<doorno>No:908/239</doorno>
+		<street>Adda Road</street>
+		<area>Vega area</area>
+		<city>Vadeeswarm-500020</city>
+		<state>Andhra Pradesh</state>
+		<country>India</country>
+		<phoneno>87654390123</phoneno>
+	</emp5>
+</addressbook>
